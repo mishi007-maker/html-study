@@ -1,0 +1,3 @@
+git =checks if git is installed in the laptop.see git help -a
+git init =makes the folderto start using git. IT IS DONE ONLY ONCE
+git add . -adds all files in the folder to be tracked by
